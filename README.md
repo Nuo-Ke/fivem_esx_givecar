@@ -22,3 +22,6 @@ us-en
 [Delete vehicle]
 3./dvplate [plate]
 
+tutorial：
+youtube:https://youtu.be/W1Zpb4v-Fmk
+b站：https://www.bilibili.com/video/BV1QK4y1T72y/
